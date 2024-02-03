@@ -1,4 +1,4 @@
-package io.javabrains.ipldashboard.model;
+package io.javarun.ipldashboard.model;
 
 import java.util.List;
 
